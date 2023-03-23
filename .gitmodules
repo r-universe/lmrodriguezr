@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "enveomics.R"]
+	path = enveomics.R
+	url = https://github.com/cran/enveomics.R
+	shallow = true
+	registered = true
+[submodule "Nonpareil"]
+	path = Nonpareil
+	url = https://github.com/cran/Nonpareil
+	shallow = true
+	registered = true
