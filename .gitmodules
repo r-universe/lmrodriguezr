@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "enveomics.R"]
-	path = enveomics.R
-	url = https://github.com/cran/enveomics.R
 [submodule "Nonpareil"]
 	path = Nonpareil
 	url = https://github.com/cran/Nonpareil
+[submodule "enveomics.R"]
+	path = enveomics.R
+	url = https://github.com/cran/enveomics.R
